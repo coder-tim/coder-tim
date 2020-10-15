@@ -1,4 +1,4 @@
 ### Hi there 👋 Welcome to my Github profile!
 
 
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=coder-tim&color=blue)
