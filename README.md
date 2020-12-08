@@ -4,3 +4,5 @@ Currently I'm using a lot of `JavaScript`, `React`, `Python`, `Flask`, `Docker`,
 
 
 ![](https://komarev.com/ghpvc/?username=coder-tim&color=blue)
+
+<p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-tim&show_icons=true&count_private=1" alt="coder-tim" /></a></p>
